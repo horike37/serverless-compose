@@ -1,0 +1,27 @@
+{
+  "name": "serverless-compose",
+  "version": "0.0.1",
+  "description": "Orchestrator for multiple serverless services",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horike37/serverless-compose.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "horike37",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horike37/serverless-compose/issues"
+  },
+  "homepage": "https://github.com/horike37/serverless-compose#readme",
+  "dependencies": {
+    "js-yaml": "^3.11.0",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0"
+  }
+}
