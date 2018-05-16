@@ -10,7 +10,7 @@ services:
     path: ./api/
   shared_api:
     type: serverless
-    path: ./api/
+    path: ./shared_api/
     depends_on:
       - api
 ```
