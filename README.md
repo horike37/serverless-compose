@@ -12,8 +12,8 @@ $ compose remove
 ```yaml
 services:
   db:
-    type: components
-    path: ./db/
+    type: components # Specify serverless or components
+    path: ./db/ # Path to serverless.yml
   api:
     type: serverless
     path: ./api/
