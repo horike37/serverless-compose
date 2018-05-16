@@ -1,4 +1,4 @@
-# Serverless Compose
+# [WIP]Serverless Compose
 Orchestrator for multiple serverless services. Suppoert for the Serverless Framework and Serverless Components.
 
 ## serverless-compose.yml
