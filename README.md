@@ -1,6 +1,12 @@
 # [WIP]Serverless Compose
 Orchestrator for multiple serverless services. Suppoert for the Serverless Framework and Serverless Components.
 
+## Getting Started
+```
+$ compose deploy
+$ compose remove
+```
+
 ## serverless-compose.yml
 
 ```yaml
