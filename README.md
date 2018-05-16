@@ -3,7 +3,7 @@ Orchestrator for multiple serverless services. Suppoert for the Serverless Frame
 
 ## serverless-compose.yml
 
-```
+```yaml
 services:
   db:
     type: components
